@@ -1,0 +1,3 @@
+module.exports = {
+  omg: 'hahahah'
+}
